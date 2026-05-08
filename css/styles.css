@@ -120,6 +120,7 @@ p {
   justify-content: center;
   gap: 10px;
   min-height: 50px;
+  min-width: fit-content;
   padding: 13px 20px;
   border: 0;
   border-radius: 999px;
@@ -193,6 +194,7 @@ p {
   flex-direction: column;
   gap: 6px;
   padding: 18px;
+  min-width: fit-content;
   background: white;
   border: 1px solid var(--border);
   border-radius: 20px;
@@ -893,6 +895,7 @@ select:focus {
     display: flex;
     align-items: center;
     gap: 10px;
+    padding: 10px;
   }
 
   .hero {
