@@ -318,37 +318,6 @@ p {
   margin-top: 28px;
 }
 
-.hero-meta {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(min(100%, 170px), 1fr));
-  gap: 12px;
-  width: 100%;
-  max-width: 100%;
-  margin-top: 28px;
-}
-
-.meta-pill {
-  display: flex;
-  align-items: center;
-  flex-wrap: wrap;
-  gap: 6px 10px;
-  min-width: 0;
-  max-width: 100%;
-  padding: 12px 14px;
-  background: rgba(255, 255, 255, 0.76);
-  border: 1px solid var(--border);
-  border-radius: 999px;
-  color: var(--muted);
-  font-size: clamp(0.88rem, 2.4vw, 0.94rem);
-  font-weight: 700;
-  overflow-wrap: anywhere;
-}
-
-.meta-pill strong {
-  color: var(--text);
-  white-space: nowrap;
-}
-
 .hero-card {
   position: relative;
   padding: 18px;
