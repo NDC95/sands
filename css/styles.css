@@ -528,7 +528,7 @@ p {
 
 .area-layout {
   display: grid;
-  gap: 18px;
+  gap: 50px;
 }
 
 .service-map {
@@ -551,7 +551,7 @@ p {
   padding: 22px;
   background: rgba(255, 255, 255, 0.86);
   border: 1px solid var(--border);
-  border-radius: 20px;
+  border-radius: 10px;
   box-shadow: 0 12px 28px rgba(17, 29, 19, 0.08);
 }
 
