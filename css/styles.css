@@ -181,9 +181,9 @@ p {
   width: 40px;
   height: 40px;
   color: var(--on-brand);
-  background: linear-gradient(135deg, var(--brand), #ffb43f);
-  border-radius: 12px;
-  box-shadow: 0 10px 20px rgba(241, 143, 1, 0.26);
+  /*background: linear-gradient(135deg, var(--brand), #ffb43f);*/
+  border-radius: 20px;
+  /*box-shadow: 0 10px 20px rgba(241, 143, 1, 0.26);*/
 }
 
 .nav-links {
