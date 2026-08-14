@@ -465,6 +465,13 @@ p {
   gap: 16px;
 }
 
+.g-image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 50px;
+}
+
 .before-after {
   overflow: hidden;
   background: rgba(255, 255, 255, 0.08);
